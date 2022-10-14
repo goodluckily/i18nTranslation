@@ -1,0 +1,2 @@
+# i18nTranslation
+i18nTranslation翻译小工具插件
