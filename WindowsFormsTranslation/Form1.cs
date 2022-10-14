@@ -21,9 +21,9 @@ namespace WindowsFormsTranslation
     public partial class Form1 : Form
     {
         //APP ID 
-        public static string appId = "20210420000791175";
+        public static string appId = "xxxxxxxxxxxxxxx";
         //密钥
-        public static string secretKey = "xhRL6tzMl5acjsZHaapC";
+        public static string secretKey = "xxxxxxxxxxxxxxxxxxxxxxxxx";
 
         public Form1()
         {
