@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsTranslation", "WindowsFormsTranslation\WindowsFormsTranslation.csproj", "{417B052A-B220-42C5-ADCF-409FB90F4490}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "i18nTranslationSetup", "i18nTranslationSetup\i18nTranslationSetup.vdproj", "{F4C4E446-FCD8-4518-8080-65F9599EE088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{417B052A-B220-42C5-ADCF-409FB90F4490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417B052A-B220-42C5-ADCF-409FB90F4490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417B052A-B220-42C5-ADCF-409FB90F4490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417B052A-B220-42C5-ADCF-409FB90F4490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4C4E446-FCD8-4518-8080-65F9599EE088}.Debug|Any CPU.ActiveCfg = Debug
+		{F4C4E446-FCD8-4518-8080-65F9599EE088}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2E9D9E2-7548-4C2B-AD4F-30C8764AD989}
+	EndGlobalSection
+EndGlobal
